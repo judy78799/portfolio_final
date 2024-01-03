@@ -1072,7 +1072,6 @@ display: none;
   /* background-color: #D0F500; */
   /* background:linear-gradient(#F5C141,white); */
   /*background-color: #a75555;*/
-  margin-top: 10vw;
 }
 .title6{
   width:fit-content;
@@ -1081,7 +1080,7 @@ display: none;
   -webkit-text-stroke: 1px black;
   font-weight: bold;
   text-align: center;
-  margin:5vw auto 10vw auto;
+  margin:10vw auto;
   border-bottom: 5px solid black;
 }
 .work-box{
