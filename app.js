@@ -1,11 +1,3 @@
-        //웹사이트 로드 시작하자마자 발생하는 자바스크립트
-        $(document).ready(function(){
-            //$('body').css({'background-color':'orange'});
-            //mainTitle.addClass('left');
-            
-        });
-        
-        
         //스크롤 이벤트 시작
         //헤더 스크롤 이벤트
         $(function(){
