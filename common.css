@@ -454,12 +454,12 @@ body{
   top:0vw;
   left:0vw;
   font-size:5.5vw;
-  color:#ffffff00;
+  color:black;
   background-image: url(./img_src/ball.png);
   background-size: cover;
   /*background-color: #2a4cb2;*/
   -webkit-text-stroke:0.09vw rgb(0, 0, 0);
-  /*background-color: #525252;*/
+  /*background-color: black;*/
   z-index: 5;
 }
 .title2{
@@ -473,7 +473,7 @@ body{
   font-size:5.5vw;
   background-image: url(./img_src/ball.png);
   background-size: cover;
-  color:#ffffff00;
+  color:black;
   -webkit-text-stroke:0.09vw rgb(0, 0, 0);
   z-index: 5;
 }
