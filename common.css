@@ -431,7 +431,7 @@ body{
   border: 1px solid rgb(0, 0, 0);
   background-color: #000000;
 }
-.sec3-2{
+#sec2{
   width:100vw;
   height:60vw;
   /* background: url(./img_src/bg_test2.png) no-repeat 100%; */
@@ -917,7 +917,7 @@ body{
   margin:0 auto;
 }
 /*section5 시작*/
-.sec5{
+#sec5{
   display: flex;
   justify-content: center;
   width:100vw;
@@ -1066,7 +1066,7 @@ display: none;
   opacity: 0;
 }
 /*sec6시작*/
-.sec6{
+#sec6{
   width:100vw;
   height:55vw;
   /* background-color: #D0F500; */
@@ -1264,7 +1264,7 @@ transition: all 1s ease;
   transform: translate(-50%, -50%);
   margin-bottom:30px;
   }
-.sec8{
+#sec8{
   width:100vw;
   height:60vw;
   margin-top: 10vw;
