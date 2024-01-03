@@ -1418,12 +1418,12 @@ transition: all 1s ease;
   background-color: #9a9a9a;
 }
 #right_content3 {
-  width: 50%;
+  width: 100vw;
 }
 #right_content3 .click_list {
   position: relative;
   top:0;
-  left:15.5vw;
+  left:0vw;
   display: flex;
   justify-content: space-between;
   width: 70vw;
